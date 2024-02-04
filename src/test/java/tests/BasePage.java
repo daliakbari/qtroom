@@ -36,7 +36,7 @@ public class BasePage {
         //  capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "5.1.1");
         // capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "emulator-5554");
        // capabilities.setCapability(MobileCapabilityType.DEVICE_NAME, "AQ8MCP2C25400098");
-       //capabilities.setCapability("udid", "R9WRC0DMSJJ");
+       capabilities.setCapability("udid", "R9WRC0DMSJJ");
       //  capabilities.setCapability(MobileCapabilityType.APP, "/Users/qtroom/Documents/mymci/mymci.apk");
         //capabilities.setCapability(MobileCapabilityType.APP, "http://192.168.2.112:3333/mymci.apk");
         capabilities.setCapability("appPackage", "ir.mci.ecareapp");
