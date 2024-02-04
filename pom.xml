@@ -10,7 +10,7 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://192.168.2.211:32000/repository/maven-central/</url>
+      <url>http://192.168.2.211:32000/repository/mvn/</url>
     </repository>
   </distributionManagement>
          
