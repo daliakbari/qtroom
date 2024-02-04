@@ -10,8 +10,13 @@
     <repository>
       <id>nexus</id>
       <name>Releases</name>
-      <url>http://192.168.2.211:32000/repository/mvn/</url>
+      <url>http://192.168.2.211:32000/repository/maven-releases</url>
     </repository>
+    <snapshotRepository>
+      <id>nexus</id>
+      <name>Snapshot</name>
+      <url>http://192.168.2.211:32000/repository/maven-snapshots</url>
+    </snapshotRepository>
   </distributionManagement>
          
     <properties>
